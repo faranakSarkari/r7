@@ -1,7 +1,7 @@
 {
   "name": "3",
   "version": "0.1.0",
-  "homepage": "https://faranakSarkari.github.io/r7",
+  "homepage": "https://faranaksarkari.github.io/r7",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.22.8",
